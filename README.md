@@ -31,3 +31,7 @@ programar adoro </h3>
    <a href="(https://discord.com/channels/867837786883227668/867837786883227670" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=target="_blank"></a> 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/108757044/182234601-0ae99996-c1aa-4dc6-b670-a1126b412483.gif)
+
