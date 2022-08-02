@@ -4,11 +4,9 @@ programar adoro </h3>
 
 - 🌱 atualmente estou atualizando **java, script, Python, Ruby , PHP, e front End tc**
 
-- 💬 me pergunto o que faço **java, script Python, Ruby, PHP, e front end tc**
+- 💬 me pergunto o que faço **java, script Python, Ruby, PHP, e front end  etc*
 
-<div align="center">
-  <a href="https://github.com/joaquin-tarqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=midnight-purple)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
