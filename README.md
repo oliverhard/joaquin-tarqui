@@ -8,7 +8,7 @@ programar adoro </h3>
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=midnight-purple)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
 
 
 <h3 align="left">Connect with me:</h3>
