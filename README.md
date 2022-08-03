@@ -6,7 +6,7 @@ programar adoro </h3>
 
 - 💬 me pergunto o que faço **java, script Python, Ruby, PHP, e front end  etc*
 
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=midnight-purple)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=cobalt)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
