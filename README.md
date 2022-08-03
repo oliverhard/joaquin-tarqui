@@ -9,8 +9,7 @@ programar adoro </h3>
 ![](https://komarev.com/ghpvc/?username=joaquin-tarqui-github-joaquintarqui&color=red)
 
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=joaquin-tarqui&show_icons=true&theme=cobalt)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&lags_count=8&theme=cobalt"/>
 
 
 <h3 align="left">Connect with me:</h3>
